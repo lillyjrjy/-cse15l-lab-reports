@@ -2,6 +2,10 @@
 
 [Lab Report 1](https://lillyjrjy.github.io/-cse15l-lab-reports/lab-report-1-week-2.html)
 
+[Lab Report 2](https://lillyjrjy.github.io/-cse15l-lab-reports/Lab-Report-2-Week-4.html)
+
+
+
 #Second Line
 
 Horizontal rule:
