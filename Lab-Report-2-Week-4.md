@@ -9,3 +9,19 @@
 
 error message
 <img width="597" alt="Screen Shot 2022-04-24 at 1 28 29 AM" src="https://user-images.githubusercontent.com/56412294/164967492-eeb76be7-4772-46d3-b0ca-98d82f8ec600.png">
+
+The input file contains only the link with no brakets. When getLink can't find any bracket, indexOf will return -1, which will brake our code when it tries to use -1 as an index for the substring, which lead to seeing the StringIndexOutOfBoundsException, the symptom.
+
+## Error2
+---
+
+[File that induced an error](https://lillyjrjy.github.io/-cse15l-lab-reports/aNewFile.html)
+
+The input file contains only the link with no brakets. 
+
+
+
+## Error3
+---
+
+[File that induced an error](https://lillyjrjy.github.io/-cse15l-lab-reports/cat.html)
