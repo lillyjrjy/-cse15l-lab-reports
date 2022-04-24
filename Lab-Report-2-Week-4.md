@@ -18,20 +18,25 @@ The input file contains only the link with no brakets. When getLink can't find a
 <img width="728" alt="Screen Shot 2022-04-24 at 1 47 39 AM" src="https://user-images.githubusercontent.com/56412294/164968294-dc053318-2f33-401e-9265-c9fcdad13edf.png">
 
 
-[File that induced an error](https://lillyjrjy.github.io/-cse15l-lab-reports/aNewFile.html)
+[File that induced the error](https://lillyjrjy.github.io/-cse15l-lab-reports/aNewFile.html)
 
+error message
 <img width="525" alt="Screen Shot 2022-04-24 at 1 48 10 AM" src="https://user-images.githubusercontent.com/56412294/164968320-38458652-f045-4609-b50e-b8b3d59ac348.png">
 
-The input file contains only the link with no brakets. 
+The method can't read more than two links, and started looping through the file with three links. It created an infinite loop and only stopped when Java ran out of memory, and give us the exception.
 
 
 
 ## Error3
 ---
+<img width="799" alt="Screen Shot 2022-04-24 at 1 59 53 AM" src="https://user-images.githubusercontent.com/56412294/164968728-5c28dca4-eb6b-455b-83e3-55c16c5de913.png">
 
 
 [File that induced an error](https://lillyjrjy.github.io/-cse15l-lab-reports/cat.html)
 
-<img width="799" alt="Screen Shot 2022-04-24 at 1 59 53 AM" src="https://user-images.githubusercontent.com/56412294/164968728-5c28dca4-eb6b-455b-83e3-55c16c5de913.png">
 
-output [https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Fmobile%2F000%2F026%2F489%2Fcrying.jpg]
+output 
+[https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Fmobile%2F000%2F026%2F489%2Fcrying.jpg]
+
+
+The method can't distinguish between an image and a link. When we used an image in the file, the method returned the link for the image.
