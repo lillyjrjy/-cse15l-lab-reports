@@ -35,7 +35,9 @@ There is a space at the end of the file, because the index of last parenthesis+1
 [File that induced an error](https://lillyjrjy.github.io/-cse15l-lab-reports/cat.html)
 
 
-output 
+Wrong output
+<img width="964" alt="Screen Shot 2022-04-28 at 8 11 37 PM" src="https://user-images.githubusercontent.com/56412294/166166199-2a18358d-df6e-43d4-b541-8538b7af103d.png">
+
 
 
 The method can't distinguish between an image and a link. When we used an image in the file, the method returned the link for the image, which is not what we wanted.
