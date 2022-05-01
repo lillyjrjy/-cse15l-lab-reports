@@ -23,7 +23,7 @@ The input file contains only the link with no brakets. When getLink can't find a
 error message
 <img width="525" alt="Screen Shot 2022-04-24 at 1 48 10 AM" src="https://user-images.githubusercontent.com/56412294/164968320-38458652-f045-4609-b50e-b8b3d59ac348.png">
 
-The method can't read more than two links, and started looping through the file with three links. It created an infinite loop and only stopped when Java ran out of memory, and give us the OutOfMemory exception.
+There is a space at the end of the file, because the index of last parenthesis+1 isn't the length, the method reached a infinite loop. The loop stops when java run out of space. Therefore, an error of OutOfMemory.
 
 
 
@@ -36,7 +36,6 @@ The method can't read more than two links, and started looping through the file 
 
 
 output 
-[https<span>://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.<span>com%2Fentries%2Ficons%2Fmobile%2F000%2F026%2F489%2Fcrying.jpg]
 
 
 The method can't distinguish between an image and a link. When we used an image in the file, the method returned the link for the image, which is not what we wanted.
