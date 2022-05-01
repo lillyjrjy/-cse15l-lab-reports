@@ -23,7 +23,7 @@ The input file contains only the link with no brakets. When getLink can't find a
 error message
 <img width="525" alt="Screen Shot 2022-04-24 at 1 48 10 AM" src="https://user-images.githubusercontent.com/56412294/164968320-38458652-f045-4609-b50e-b8b3d59ac348.png">
 
-There is an empty line at the end of the file, because the index of last parenthesis+1 isn't the length, the method reached an infinite loop. The loop stops when java run out of space. Therefore, an error of OutOfMemory.
+There is an empty line at the end of the file, because the index of last parenthesis+1 isn't the length, the method reached an infinite loop. The loop stops when java run out of space, which led to an OutOfMemory error.
 
 
 
