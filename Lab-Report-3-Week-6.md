@@ -40,7 +40,6 @@ Running git
 copying files
 
 <img width="571" alt="Screen Shot 2022-05-08 at 12 13 59 AM" src="https://user-images.githubusercontent.com/56412294/167285928-850300cf-0cc0-47e0-a4ee-c5061904c903.png">
-
 <img width="571" alt="Screen Shot 2022-05-08 at 12 15 20 AM" src="https://user-images.githubusercontent.com/56412294/167285944-ae3b1a00-22b9-4c75-b7bd-2b24ccb340c7.png">
 
 logging to ieng6 to compile and run
