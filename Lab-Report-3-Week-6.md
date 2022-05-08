@@ -34,3 +34,17 @@ Running git
 <img width="538" alt="Screen Shot 2022-05-07 at 11 11 06 PM" src="https://user-images.githubusercontent.com/56412294/167284249-5bb583c9-97ee-44bc-bc16-5ddfc4601d53.png">
 
 [Link of resulting commit](https://github.com/lillyjrjy/15Demo/commit/cd425c6bfa6b33d54b2629308a71256972be5713)
+
+
+## Task 3
+copying files
+
+<img width="571" alt="Screen Shot 2022-05-08 at 12 13 59 AM" src="https://user-images.githubusercontent.com/56412294/167285928-850300cf-0cc0-47e0-a4ee-c5061904c903.png">
+
+<img width="571" alt="Screen Shot 2022-05-08 at 12 15 20 AM" src="https://user-images.githubusercontent.com/56412294/167285944-ae3b1a00-22b9-4c75-b7bd-2b24ccb340c7.png">
+
+logging to ieng6 to compile and run
+
+<img width="571" alt="Screen Shot 2022-05-08 at 12 29 39 AM" src="https://user-images.githubusercontent.com/56412294/167286342-c5437d18-ad67-470d-b90a-84c94d574ba7.png">
+
+
