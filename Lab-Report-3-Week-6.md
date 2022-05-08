@@ -26,7 +26,7 @@ key located on github
 
 <img width="767" alt="Screen Shot 2022-05-07 at 11 10 13 PM" src="https://user-images.githubusercontent.com/56412294/167284234-d9414bf2-3cd5-49b6-8310-63cac6c4887f.png">
 
-Private key
+Private key is id_rsa
 
 <img width="538" alt="Screen Shot 2022-05-07 at 11 11 51 PM" src="https://user-images.githubusercontent.com/56412294/167284272-c030cc5c-2e99-4dc2-9076-13ab0951edda.png">
 
