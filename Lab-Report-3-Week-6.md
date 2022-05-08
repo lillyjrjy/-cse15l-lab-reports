@@ -13,7 +13,8 @@ I used the nano command in terminal to edit the file
 
 `ssh ieng6` works
 
-<img width="685" alt="Screen Shot 2022-05-07 at 4 40 23 PM" src="https://user-images.githubusercontent.com/56412294/167275731-26899e6b-a8b2-4e7b-8ef6-9bf89ef1d1fe.png">
+<img width="571" alt="Screen Shot 2022-05-08 at 12 41 08 AM" src="https://user-images.githubusercontent.com/56412294/167286656-dabb1207-227c-4753-8d27-19f92283ffea.png">
+
 
 Copying file
 
