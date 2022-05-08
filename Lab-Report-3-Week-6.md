@@ -47,4 +47,7 @@ logging to ieng6 to compile and run
 
 <img width="571" alt="Screen Shot 2022-05-08 at 12 29 39 AM" src="https://user-images.githubusercontent.com/56412294/167286342-c5437d18-ad67-470d-b90a-84c94d574ba7.png">
 
+One line command
+
+<img width="571" alt="Screen Shot 2022-05-08 at 12 36 43 AM" src="https://user-images.githubusercontent.com/56412294/167286545-b145b52f-99a0-4b8c-b5fd-bb1948ea1945.png">
 
