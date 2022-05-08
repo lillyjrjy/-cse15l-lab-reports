@@ -32,6 +32,8 @@ Private key is id_rsa
 
 Running git
 
+<img width="504" alt="Screen Shot 2022-05-08 at 12 44 25 AM" src="https://user-images.githubusercontent.com/56412294/167286752-797a5f1e-a014-4f97-8b8c-8f42deb22175.png">
+
 <img width="538" alt="Screen Shot 2022-05-07 at 11 11 06 PM" src="https://user-images.githubusercontent.com/56412294/167284249-5bb583c9-97ee-44bc-bc16-5ddfc4601d53.png">
 
 [Link of resulting commit](https://github.com/lillyjrjy/15Demo/commit/cd425c6bfa6b33d54b2629308a71256972be5713)
