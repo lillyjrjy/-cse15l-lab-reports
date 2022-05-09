@@ -4,7 +4,7 @@
 
 [Lab Report 2](https://lillyjrjy.github.io/-cse15l-lab-reports/Lab-Report-2-Week-4.html)
 
-[Lab Report 2](https://lillyjrjy.github.io/-cse15l-lab-reports/Lab-Report-3-Week-6.html)
+[Lab Report 3](https://lillyjrjy.github.io/-cse15l-lab-reports/Lab-Report-3-Week-6.html)
 
 
 
