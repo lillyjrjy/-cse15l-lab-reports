@@ -51,5 +51,5 @@ logging to ieng6 to compile and run
 
 One line command
 
-<img width="562" alt="Screen Shot 2022-05-08 at 6 21 28 PM" src="https://user-images.githubusercontent.com/56412294/167325190-21347a5a-e5aa-45e5-882f-0a64f6489a6e.png">
+<img width="570" alt="image" src="https://user-images.githubusercontent.com/56412294/168735668-ac0c3137-8cb6-4ff9-8622-1f62ff6c1e85.png">
 
