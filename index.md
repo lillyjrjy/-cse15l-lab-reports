@@ -6,7 +6,7 @@
 
 [Lab Report 3](https://lillyjrjy.github.io/-cse15l-lab-reports/Lab-Report-3-Week-6.html)
 
-
+[Lab Report 4](https://lillyjrjy.github.io/-cse15l-lab-reports/Lab-Report-4-Week-8.html)
 
 
 #Second Line
