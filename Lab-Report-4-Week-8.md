@@ -2,9 +2,9 @@
 [Index](https://lillyjrjy.github.io/-cse15l-lab-reports/index.html)
 
 ## epositories
-Repository we worked: https://github.com/YoavGutmanUCSD/markdown-parser-2
+[Repository we worked](https://github.com/YoavGutmanUCSD/markdown-parser-2)
 
-Repository we reviewed: https://github.com/DanUCSD/markdown-parser.git
+[Repository we reviewed](https://github.com/DanUCSD/markdown-parser.git)
 
 ---------
 ## Expected output:
