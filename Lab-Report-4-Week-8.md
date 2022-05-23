@@ -39,6 +39,7 @@ I do, the problem with our output is that we included empty spaces, which could 
 
 
 ## Implementation of the other group results
+<img width="724" alt="image" src="https://user-images.githubusercontent.com/56412294/169747189-9bbe53b5-55ef-4812-8603-60942d926fd3.png">
 
 1. 
 2. 
