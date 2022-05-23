@@ -41,6 +41,7 @@ I do, the problem with our output is that we included empty spaces, which could 
 ## Implementation of the other group results
 <img width="724" alt="image" src="https://user-images.githubusercontent.com/56412294/169747189-9bbe53b5-55ef-4812-8603-60942d926fd3.png">
 
-1. 
-2. 
-3. 
+1. Their code mistakenly read the url.com because they ignored the "\`" like our code, they could also check it in front of the "[".
+ It didn't read the first google link because the their code ignored any line that didn't end with ")". They can also check if "\`" is at the end then not `continue`.
+2. Their code read too much of the first link, because their code only reads the first "(" to the end of the line. They should probable change their logic so the code can deal which ")" defferently.
+3. Their code didn't read the link because it doesn't read links that extends more than one line. This is still a similar problem to the previous tests. They should change their logic.
