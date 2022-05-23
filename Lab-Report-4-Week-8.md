@@ -23,15 +23,16 @@
 
 ## Our Implementation results
  
- 1. <img width="980" alt="Screen Shot 2022-05-22 at 9 34 10 PM" src="https://user-images.githubusercontent.com/56412294/169743935-cbc974ce-6a46-488b-8dce-7d7253b3845f.png">
+  <img width="980" alt="Screen Shot 2022-05-22 at 9 34 10 PM" src="https://user-images.githubusercontent.com/56412294/169743935-cbc974ce-6a46-488b-8dce-7d7253b3845f.png">
 
  ----
 
-2. <img width="983" alt="Screen Shot 2022-05-22 at 9 34 55 PM" src="https://user-images.githubusercontent.com/56412294/169744016-a07b0e32-12c5-4d29-8cbb-485d46bb1b5f.png">
+ <img width="983" alt="Screen Shot 2022-05-22 at 9 34 55 PM" src="https://user-images.githubusercontent.com/56412294/169744016-a07b0e32-12c5-4d29-8cbb-485d46bb1b5f.png">
 ---
 
-3. <img width="977" alt="Screen Shot 2022-05-22 at 9 35 33 PM" src="https://user-images.githubusercontent.com/56412294/169744080-d6a71b2b-a3c0-496e-bc75-95f735df2259.png">
----
+ <img width="977" alt="Screen Shot 2022-05-22 at 9 35 33 PM" src="https://user-images.githubusercontent.com/56412294/169744080-d6a71b2b-a3c0-496e-bc75-95f735df2259.png">
+
+-----
 1. Our code also read the first line in the snippet. An easy way is to treat the "`" like "!", and remove the link when it was found in front of "["
 
 2. Our code stopped reading any link after the first ")" was found. This issue is more complacated as to the code has to decide with parenthsis should be taken in as the output itself. We might need to incorporate a stack adt.
