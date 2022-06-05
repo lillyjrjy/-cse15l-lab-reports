@@ -27,7 +27,7 @@ our program didn't find an open parenthesis, so openparen returns -1, the substr
 [Test link](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/494.md)
 
 expected output:
-<img width="648" alt="image" src="https://user-images.githubusercontent.com/56412294/172042136-4e9bb9c4-d65c-488b-b3ef-d74742a0c201.png">
+<img width="648" alt="image" src="https://user-images.githubusercontent.com/56412294/172043558-a10ce276-518b-4665-aef2-6a66e889853f.png">
 
 
 
