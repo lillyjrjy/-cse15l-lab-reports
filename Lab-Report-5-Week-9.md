@@ -23,7 +23,7 @@ Code that should be fixed:
 <img width="673" alt="image" src="https://user-images.githubusercontent.com/56412294/172043859-9bbe8e40-9b5c-41d4-9bad-fe507b80517e.png">
 
 
-Our program didn't find an open parenthesis, so openparen returns -1, the substring it read is from index -1+1 to the close parenthesis, which is why it give the string output.
+Our program didn't find an open parenthesis, so openparen returns -1, the substring it read is from index -1+1 to the close parenthesis, which is why it give the wrong output.
 
 ------
 ## test2
