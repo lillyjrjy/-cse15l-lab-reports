@@ -2,7 +2,7 @@
 [Index](https://lillyjrjy.github.io/-cse15l-lab-reports/index.html)
 
 
-Found the difference using ```vimdiff```
+Found the difference using ```vimdiff``` by comparing the two results.txt files.
 
 ## test1
 <img width="943" alt="image" src="https://user-images.githubusercontent.com/56412294/172040650-59faf357-897e-4123-8afe-e414eccfdab0.png">
