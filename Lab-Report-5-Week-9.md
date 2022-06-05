@@ -17,7 +17,7 @@ expected output:
 The provided program is right
 
 
-
+our program didn't find an open parenthesis, so openparen returns -1, the substring it read is from index -1+1 to the close parenthesis, which is why it give the string output.
 
 ------
 ## test2
@@ -32,3 +32,5 @@ expected output:
 
 
 both are wrong
+
+our program reads everything in the outter set of parenthesis, it didn't ignore the "\" because we didn't have any code for case like this one. 
