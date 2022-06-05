@@ -18,7 +18,7 @@ Expected output:
 The provided program is right
 
 
-Code that should be finxed:
+Code that should be fixed:
 
 <img width="673" alt="image" src="https://user-images.githubusercontent.com/56412294/172043859-9bbe8e40-9b5c-41d4-9bad-fe507b80517e.png">
 
