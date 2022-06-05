@@ -9,7 +9,14 @@ Found the difference using ```vimdiff```
 
 [Test link](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/12.md)
 
+expected output:
+<img width="648" alt="Screen Shot 2022-06-05 at 1 27 07 AM" src="https://user-images.githubusercontent.com/56412294/172042153-30c92979-403b-4bb1-ba5a-4af5da851089.png">
+
+
+
 The provided program is right
+
+
 
 
 ------
@@ -18,5 +25,10 @@ The provided program is right
 
 
 [Test link](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/494.md)
+
+expected output:
+<img width="648" alt="image" src="https://user-images.githubusercontent.com/56412294/172042136-4e9bb9c4-d65c-488b-b3ef-d74742a0c201.png">
+
+
 
 both are wrong
