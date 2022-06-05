@@ -44,4 +44,4 @@ Our code that needs to be fixed:
 
 <img width="673" alt="Screen Shot 2022-06-05 at 2 19 48 AM" src="https://user-images.githubusercontent.com/56412294/172043922-08a7f6ad-fb37-4fa4-aabc-2979b1c6f0f7.png">
 
-Our program reads everything in the outter set of parenthesis, it didn't ignore the "\" because we didn't have any code for case like this one. We should add a cheker for "\" that ignores it.
+Our program reads everything in the outter set of parenthesis, it didn't ignore the backward slash because we didn't have any code for case like this one. We should add a cheker for backward slash that ignores it.
