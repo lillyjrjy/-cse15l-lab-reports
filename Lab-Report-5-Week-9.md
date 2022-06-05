@@ -5,7 +5,10 @@
 Found the difference using ```vimdiff```
 
 ## test1
-
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/56412294/172040650-59faf357-897e-4123-8afe-e414eccfdab0.png">
+The provided program is right
 
 
 ## test2
+<img width="909" alt="image" src="https://user-images.githubusercontent.com/56412294/172040665-ad9b91a0-c09f-4261-b59b-83b1dd8cba7e.png">
+both are wrong
